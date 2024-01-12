@@ -14,3 +14,12 @@ Console.WriteLine(character);
 Console.WriteLine(firstName);
 Console.WriteLine(isWorking);
 Console.BackgroundColor = ConsoleColor.Green;
+
+// Format String
+Console.WriteLine("{0} {1}", byte.MinValue, byte.MaxValue);
+Console.WriteLine("{0} {1}", float.MinValue, float.MaxValue);
+
+// Constants
+
+const float Pi = 3.142f;
+Console.WriteLine(Pi * 2 + 5);

@@ -10,4 +10,8 @@ catch (Exception)
 
     Console.WriteLine("Unable to convert the number to byte");
 }
+// Understanding type Conversion
+int i = 0;
+byte b = (byte)i;
+
 

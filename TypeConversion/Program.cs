@@ -12,6 +12,6 @@ catch (Exception)
 }
 // Understanding type Conversion
 int i = 0;
-byte b = (byte)i;
+byte c = (byte)i;
 
 

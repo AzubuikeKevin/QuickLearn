@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeConversion", "TypeConve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{AA621024-CC52-4057-A139-DD00F5658D0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{20F79AF8-390A-41B9-96DC-D93E217F27C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{AA621024-CC52-4057-A139-DD00F5658D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA621024-CC52-4057-A139-DD00F5658D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA621024-CC52-4057-A139-DD00F5658D0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20F79AF8-390A-41B9-96DC-D93E217F27C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F79AF8-390A-41B9-96DC-D93E217F27C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F79AF8-390A-41B9-96DC-D93E217F27C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F79AF8-390A-41B9-96DC-D93E217F27C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

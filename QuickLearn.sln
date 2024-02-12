@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickLearn", "QuickLearn\QuickLearn.csproj", "{948BB9EF-3C89-4A44-A8A5-EFFA46F93590}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversion", "TypeConversion\TypeConversion.csproj", "{BDC08851-4DDC-442B-B273-F4A8C9FDDF31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeConversion", "TypeConversion\TypeConversion.csproj", "{BDC08851-4DDC-442B-B273-F4A8C9FDDF31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{AA621024-CC52-4057-A139-DD00F5658D0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{BDC08851-4DDC-442B-B273-F4A8C9FDDF31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDC08851-4DDC-442B-B273-F4A8C9FDDF31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDC08851-4DDC-442B-B273-F4A8C9FDDF31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA621024-CC52-4057-A139-DD00F5658D0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA621024-CC52-4057-A139-DD00F5658D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA621024-CC52-4057-A139-DD00F5658D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA621024-CC52-4057-A139-DD00F5658D0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

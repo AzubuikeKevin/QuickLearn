@@ -1,45 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-public class Person
-{
-    public string FirstName { get; set; }
-    public string LastName = "Kevin";
-
-    public void Introduce()
-    {
-        Console.WriteLine("Hello my name is " + FirstName);
-    }
-}
-
-public class Calculator
-{
-    public static int Add(int a, int b)
-    {
-        return a + b;
-    }
-}
-
-public class Car
-{
-    public string Brand { get; set; }
-    public string Model { get; set; }
-    public string Colour { get; set; }
-
-    public void GetCarName()
-    {
-        Console.WriteLine("The Brand of my car is " + Brand + " & it is a " + Model + " with a " + Colour + " stripe.");
-    }
-}
-
-public class Age
-{
-    public string FullName { get; set; }
-
-    public void getAge(int DateOfBirth, int Year)
-    {
-        var age =  Year - DateOfBirth;
-        Console.WriteLine("Hello " + FullName + " your age is " + age);
-    }
-}
+﻿
+// See https://aka.ms/new-console-template for more information
 public class Program
 {
     public static void Main(string[] args)

@@ -1,5 +1,9 @@
 ﻿namespace RefTypeandValType
 {
+    public class Person
+    {
+        public int Age;
+    }
     public class Program
     {
         static void Main(string[] args)
@@ -16,5 +20,14 @@
 
             Console.WriteLine(string.Format("Array1[0] {0}, Array2[0] {1}", array1[0], array2[0]));
         } 
+
+        public static void Increment(int number)
+        {
+            number += 10;
+        }
+        public static void MakeOld(Person person)
+        {
+            person.Age += 10;
+        }
     }
 }

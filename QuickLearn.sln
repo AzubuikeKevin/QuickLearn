@@ -31,9 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTyme", "DataTyme\DataTy
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stringg", "Stringg\Stringg.csproj", "{ADDC716E-A84D-405A-9E21-4A273C104CF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummarizeTextProj", "SummarizeTextProj\SummarizeTextProj.csproj", "{6F65FA94-C218-4A46-82A6-2CE13ACE70D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SummarizeTextProj", "SummarizeTextProj\SummarizeTextProj.csproj", "{6F65FA94-C218-4A46-82A6-2CE13ACE70D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrBuilder", "StrBuilder\StrBuilder.csproj", "{257C9933-7840-4478-A65B-8C5411EE929A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrBuilder", "StrBuilder\StrBuilder.csproj", "{257C9933-7840-4478-A65B-8C5411EE929A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcProgramming", "ProcProgramming\ProcProgramming.csproj", "{746AA70D-F2ED-44A9-A999-5788F086C21D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{257C9933-7840-4478-A65B-8C5411EE929A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{257C9933-7840-4478-A65B-8C5411EE929A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{257C9933-7840-4478-A65B-8C5411EE929A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{746AA70D-F2ED-44A9-A999-5788F086C21D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746AA70D-F2ED-44A9-A999-5788F086C21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746AA70D-F2ED-44A9-A999-5788F086C21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746AA70D-F2ED-44A9-A999-5788F086C21D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

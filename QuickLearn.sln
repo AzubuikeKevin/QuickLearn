@@ -37,6 +37,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrBuilder", "StrBuilder\St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcProgramming", "ProcProgramming\ProcProgramming.csproj", "{746AA70D-F2ED-44A9-A999-5788F086C21D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithFiles", "WorkingWithFiles\WorkingWithFiles.csproj", "{BED7838D-BBB5-47F0-9F3F-0A2C7EBC6AFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{746AA70D-F2ED-44A9-A999-5788F086C21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{746AA70D-F2ED-44A9-A999-5788F086C21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{746AA70D-F2ED-44A9-A999-5788F086C21D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BED7838D-BBB5-47F0-9F3F-0A2C7EBC6AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED7838D-BBB5-47F0-9F3F-0A2C7EBC6AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED7838D-BBB5-47F0-9F3F-0A2C7EBC6AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED7838D-BBB5-47F0-9F3F-0A2C7EBC6AFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
